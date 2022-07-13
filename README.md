@@ -1,6 +1,6 @@
 # VAST-Challenge-2022
 
-Entry Name:  "Siriraj-Rungseesantivanon-C2" 
+Entry Name:  "Siriraj-Rungseesantivanon-C2" for challenge 2 (pattern of life)
  
 Team Members:
 Wuttada Rungseesantivanon, Mahidol University, Thailand, wuttada.run@student.mahidol.ac.th (PRIMARY)
